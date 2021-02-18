@@ -1,0 +1,17 @@
+body {
+  background: #333;
+}
+
+.clock {
+  font-size: 6rem;
+  text-align: center;
+  margin: 200px auto;
+  color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.clock span {
+  padding: 20px;
+  background: #444;
+}
